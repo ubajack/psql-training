@@ -8,6 +8,6 @@
 
 4. Ecrivez une requête de sélection des données permettant de lister les départements par nombre de dossiers d'infractions.
 
-5. Ecrivez une requête de sélection des données permettant de déterminer l'autoroute totalisant le plus grand nombre de dossiers d'infractions. Faites-en de même avec les routes départementales.
+5. Ecrivez une requête de sélection des données permettant de déterminer l'autoroute totalisant le plus grand nombre de dossiers d'infractions. Prenez en compte, dans un premier temps, un sens unique, puis calculez le total tous sens confondus (total pour les 2 sens cumulés). Faites-en de même avec les routes départementales.
 
 6. Etablissez la moyenne du nombre d'infractions par radar puis multipliez-la au nombre d'années de service pour en afficher le nombre total d'infractions estimé sur toute la durée de mise en service du radar. Triez ensuite le résultat pour estimer le radar comptant possiblement le plus d'infractions au total.
