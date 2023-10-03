@@ -9,3 +9,11 @@
 4. Listez le nombre total d'autoroutes par région. Faites-en de même avec les routes départementales.
 
 5. Etablissez un classement de la région établissant le total de dossiers d'infractions le plus important.
+
+6. Créez et copiez la table `cities`.
+
+7. Etablissez une liste du nombre de villes par département puis par région.
+
+8. Listez les codes postaux et le nombre de villes associées à ces codes postaux.
+
+9. Listez le nombre de codes postaux uniques par département puis par région.
