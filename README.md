@@ -6,6 +6,7 @@
 - [ ] [Nombres de flashs](./02-Radars/)
 - [ ] [Régions et départements](./03-ZIP-codes/)
 - [ ] [Backup des données](./04-Backup/)
+- [ ] [Gérer les connexions](./05-Connections/)
 
 - [PostgreSQL Exercises](https://pgexercises.com/questions/basic/)
 
