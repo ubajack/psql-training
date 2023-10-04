@@ -33,3 +33,10 @@ Vous allez créer un registre de planètes contenant diverses informations. Vous
  Mars   |     2
  Earth  |     1
 ```
+
+6. La valeur de la période de révolution d'une planète ou d'une lune détermine le sens de révolution de cette dernière. Une valeur positive nous informe d'une orbite `prograde`, tandis qu'une valeur négative désigne une orbite `retrograde`.  
+   Faites une sélection sur les lunes de Neptune et créez une colonne `motion` affichant `retrograde` ou `prograde` en fonction de la colonne `orbital_period`.
+
+7. Pour Neptune toujours, établissez le compte de lunes en mouvement `retrograde` et en mouvement `prograde`.
+
+8. Etendez ce modèle à chaque lune de votre table en ajoutant au préalable une colonne à cette dernière que vous nommerez `motion`.
