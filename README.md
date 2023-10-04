@@ -15,3 +15,4 @@
 - [Tutoriel](https://docs.postgresql.fr/15/tutorial.html)
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 - [PL/pgSQL : Les bases](https://public.dalibo.com/exports/formation/manuels/modules/p1/p1.handout.html)
+- [Gérer les connexions et les droits utilisateurs sous PostgreSQL](https://librecours.net/module/picasoft/run/pg01/index.xhtml)
