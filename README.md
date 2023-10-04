@@ -16,3 +16,4 @@
 - [PostgreSQL Tutorial](https://www.postgresqltutorial.com/)
 - [PL/pgSQL : Les bases](https://public.dalibo.com/exports/formation/manuels/modules/p1/p1.handout.html)
 - [Gérer les connexions et les droits utilisateurs sous PostgreSQL](https://librecours.net/module/picasoft/run/pg01/index.xhtml)
+- [POSTGRESQL - 8. Autorisation d'accès : le pg_hba](https://youtu.be/gBQ_deUzs28?si=_GoZDq-IYZJ5e2Ot)
